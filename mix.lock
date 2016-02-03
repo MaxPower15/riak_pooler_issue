@@ -1,0 +1,8 @@
+%{"hamcrest": {:hex, :hamcrest, "0.1.1"},
+  "linguist": {:hex, :linguist, "0.1.5"},
+  "meck": {:hex, :meck, "0.8.4"},
+  "pooler": {:hex, :pooler, "1.5.0"},
+  "protobuffs": {:hex, :protobuffs, "0.8.2"},
+  "riak": {:git, "https://github.com/drewkerrigan/riak-elixir-client.git", "7be582e740db8d6f1e44c42383e0a4fbbd2ed848", [tag: "7be582e740db8d6f1e44c42383e0a4fbbd2ed848"]},
+  "riak_pb": {:hex, :riak_pb, "2.1.0"},
+  "riakc": {:hex, :riakc, "2.1.1"}}
